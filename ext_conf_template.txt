@@ -1,0 +1,5 @@
+# cat=basic; type=boolean; label=Hide original content field (RTE field) from tt_news
+hideContentField = 0
+
+# cat=basic; type=boolean; label=Render original 'bodytext' field, if there is no content elements (good to use, if you are in the middle of migration to tt_content elements)
+renderBodytextIfZeroElements = 1

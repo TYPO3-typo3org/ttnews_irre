@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>CSH for tt_news table additions</description>
+		<type>CSH</type>
+		<csh_table>tt_news</csh_table>
+		<fileId>EXT:ttnews_irre/locallang_csh_tt_news.xml</fileId>
+		<labelContext type="array">
+		</labelContext>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_ttnewsirre_content.description">Create content elements, which will be the content of your news content</label>
+			<label index="tx_ttnewsirre_content.details">The content elements that you create are the same elements which you can create on a normal page. This gives you a possibility to create nice looking news, with the elements that you are used to work with</label>
+		</languageKey>
+	</data>
+</T3locallang>
